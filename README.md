@@ -1,4 +1,4 @@
-# mobile_ml
+# Mask or Not Mask Detected
 
 A new Flutter project.
 
