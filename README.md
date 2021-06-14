@@ -1,3 +1,3 @@
 # Mask or Not Mask Detected
 
-Machine Learning with tensorflow lite use flutter framework
+Machine Learning with tensorflow lite use flutter
